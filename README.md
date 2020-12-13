@@ -1,6 +1,8 @@
-### Hello!  I'm Luke Pendleton!
+## Hey there!  My name is Luke Pendleton!
 
-# A little about me...
+<br />
+
+### A little about me...
 - I will add stuff here a bit later...
 <!--
 - I recently graduated with a degree in Computer Science from the University of Michigan College of Engineering
