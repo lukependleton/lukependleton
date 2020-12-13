@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello!  I'm Luke Pendleton!
+
+# A little about me...
+- I will add stuff here a bit later...
+<!--
+- I recently graduated with a degree in Computer Science from the University of Michigan College of Engineering
+- I love learning new things
+- I love playing piano and video games
+- I like game development
+-->
 
 <!--
 **lukependleton/lukependleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
