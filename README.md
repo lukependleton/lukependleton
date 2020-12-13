@@ -1,6 +1,6 @@
-## Hey there!  My name is Luke Pendleton!
+### Hey there!  My name is Luke Pendleton!
 
-<br />
+***
 
 ### A little about me...
 - I will add stuff here a bit later...
@@ -10,6 +10,8 @@
 - I love playing piano and video games
 - I like game development
 -->
+
+***
 
 <!--
 **lukependleton/lukependleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
