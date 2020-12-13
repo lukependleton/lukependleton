@@ -9,6 +9,8 @@
 - I love learning new things
 - I love playing piano and video games
 - I like game development
+
+look [here](https://www.markdownguide.org/basic-syntax/) for markdown syntax later
 -->
 
 ***
